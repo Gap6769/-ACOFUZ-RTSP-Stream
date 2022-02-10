@@ -21,6 +21,8 @@ Partiendo desde la premisa que se debía hacer una interfaz para visualizar (n) 
 
 Una vez entendí el proceso que quería hacer, se trato de adaptar la GUI y realizar pruebas de las funcionalidades que me interesaba incluir: Grabación de video, captura de pantalla, reproducir videos grabados, ingresar nuevos links desde la misma GUI. Quede con otras funciones en el tintero que trabajaré más adelante.
 
+Aprovecho, para comentar que el desafio fue bastante entretenido y altamente educativo, cualquiera sea el caso, muy feliz de haberme encontrado con este encargo!
+
 Disclosure: El resultado final, es producto de multiples busquedas en google, preguntas y parte realizado por mi mismo. Mi fortaleza no es ser un experto programador que puede realizar todo por su cuenta, es ser una persona entusiasta que le gustan los desafios y es capaz de buscar por todos lados hasta construir la solución adecuada.
 
 Sobre el opcional: De todas formas me entusiasma, volviendo a lo mismo, busco una puerta de entrada. Sobre mis conocimientos en JavaScript, son intermedios, no lo uso como lenguaje principal, pero si me vi obligado a familiarizarme rapidamente con el, debido a un proyecto en el que me involucre.
