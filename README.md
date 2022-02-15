@@ -1,4 +1,4 @@
-# -ACOFUZ-RTSP-Stream
+#RTSP-Stream
 Proyecto desarrollado por encargo de ACOFUZ a modo de prueba técnica. 
 
 Hola Amigos de Acofuz, espero que se encuentren excelente y aprovecho la oportunidad para agradecerles su disposición.
